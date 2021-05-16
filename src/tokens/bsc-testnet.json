@@ -22,5 +22,12 @@
     "chainId": 97,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDT-6D8/logo.png"
+  },
+  {
+    "name": "Xerxes Token",
+    "symbol": "XRX",
+    "address": "0x7b290C24B3d637348eD7D251A301C943a6d3B698",
+    "chainId": 97,
+    "decimals": 2,
   }
 ]
